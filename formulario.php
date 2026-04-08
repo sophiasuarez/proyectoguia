@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <form action="">
+    <form action="create.php" method="POST">
          <p>nombre</p>
         <input type="text">
         <p>descripcion</p>
