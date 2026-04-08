@@ -9,6 +9,8 @@
             background-color:#F3F4F6;
         width: 600px;
         height:800px;
+        box-shadow: 5px 5px 10px #2569EB;
+
         }
     </style>
 </head>
