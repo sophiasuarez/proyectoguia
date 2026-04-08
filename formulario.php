@@ -10,6 +10,7 @@
         width: 600px;
         height:800px;
         box-shadow: 5px 5px 10px #2569EB;
+    
 
         }
         
@@ -20,7 +21,7 @@
     </style>
 </head>
 <body>
-
+<center>
     <form action="create.php" method="POST" id="formulario">
          <p>nombre</p>
         <input type="text">
@@ -30,6 +31,6 @@
         <input type="text">
         <input type="submit" value="enviar">
         <input type="reset" value="borrar">
-    </form>
+    </form></center>
 </body>
 </html>
