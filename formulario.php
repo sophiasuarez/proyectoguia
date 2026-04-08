@@ -5,14 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-        body{
+        #formulario{
             background-color:#F3F4F6;
+        width: 600px;
+        height:800px;
         }
     </style>
 </head>
 <body>
 
-    <form action="create.php" method="POST">
+    <form action="create.php" method="POST" id="formulario">
          <p>nombre</p>
         <input type="text">
         <p>descripcion</p>
