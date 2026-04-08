@@ -12,6 +12,11 @@
         box-shadow: 5px 5px 10px #2569EB;
 
         }
+        
+        p{
+            color: #6b7280
+            
+        }
     </style>
 </head>
 <body>
