@@ -10,6 +10,11 @@
         width: 600px;
         height:800px;
         }
+        
+        p{
+            color: #6b7280
+            
+        }
     </style>
 </head>
 <body>
