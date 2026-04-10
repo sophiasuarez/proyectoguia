@@ -10,7 +10,7 @@
         width: 600px;
         height:800px;
         box-shadow: 5px 5px 10px #2569EB;
-     border:5px solid #6b7280;
+     border:5px solid #1fb81f80;
 
         }
         
