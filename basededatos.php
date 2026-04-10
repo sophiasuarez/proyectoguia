@@ -21,7 +21,7 @@ CREATE TABLE IF NOT EXISTS `tareita`.`tareas` (
   `id` INT NOT NULL,
   `nombre` VARCHAR(45) NULL,
   `descripcion` VARCHAR(45) NULL,
-  `tema` VARCHAR(45) NULL,
+  `estado` VARCHAR(45) NULL,
   PRIMARY KEY (`id`))
 ENGINE = InnoDB;
 
